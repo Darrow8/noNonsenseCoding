@@ -9,6 +9,7 @@ This repo is designed to teach those who can already code in a seperate/multiple
 # Where is the Channel?
 
 For these tutorials, I will be posting a video along (ideally 5-10 min) on the given language as well as a file of the code used. 
+https://www.youtube.com/watch?v=A3ENY4Qae0A&list=PLdqDIJyKQqcWwHP9rCVcKjQDC-sWty4V-
 
 # Can I Contribute?
 
