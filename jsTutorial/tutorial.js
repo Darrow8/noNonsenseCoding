@@ -111,7 +111,7 @@ class Programmer{
 
     writeScript(languageUsed){
         let canCode = false;
-        for( let i =0; i < this.languages; i++){
+        for( let i =0; i < this.languages.length; i++){
             if(languageUsed == this.languages[i]){
                 canCode = true;
             }
