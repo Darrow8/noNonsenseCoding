@@ -72,6 +72,15 @@ while(isTrue){
 
 }
 
+// * Loop over the items in a container
+for (let num of arr) {
+    console.log(num); // 0, 1, 2 on new lines
+}
+
+for (let key in obj) {
+    console.log(key, obj[key]); // 'name' 'Object', 'type' 'Object'
+}
+
 // * Standard & Arrow Functions
 
 function getMilk(){
@@ -111,7 +120,7 @@ class Programmer{
 
     writeScript(languageUsed){
         let canCode = false;
-        for( let i =0; i < this.languages; i++){
+        for( let i =0; i < this.languages.length; i++){
             if(languageUsed == this.languages[i]){
                 canCode = true;
             }
