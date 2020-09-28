@@ -14,3 +14,6 @@ For these tutorials, I will be posting a video along (ideally 5-10 min) on the g
 
 Yes! Message me about contributing through my email: darhart@nuevaschool.org
 
+# How Can I Use This?
+
+If you want to use this tutorial in any way, please give credit to this repo or me.
